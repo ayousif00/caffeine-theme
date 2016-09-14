@@ -87,7 +87,7 @@ $(function() {
             $("body").subbscribe({
                 title: options.title || "Never miss a post!",
                 text: options.text || "Stay up to the date with the latest posts!",
-                name: options.name || "<a href='https://www.facebook.com/caffeinecoding' target='_blank'>@caffeinecoding</a>",
+                name: options.name || "<a href='https://www.facebook.com/Ayousif00' target='_blank'>@abdul_mah</a>",
                 color: options.color || "#56817A",
                 thumbnail: options.thumbnail || "http://i.imgur.com/39erIwp.png",
                 list: "MailChimp",
