@@ -3,6 +3,9 @@
   "description": "Minimalist and Elegant theme for Ghost",
   "homepage": "https://github.com/ayousif00/caffeine-theme",
   "version": "2.9.0",
+  "config": {
+    "posts_per_page": 3
+	},
   "author": {
     "name": "Kelyvin",
     "url": "https://github.com/ayousif00",
