@@ -1,16 +1,5 @@
 {
   "name": "caffeine-theme",
-
-  "description": "Minimalist and Elegant theme for Ghost",
-  "homepage": "https://github.com/ayousif00/caffeine-theme",
-  "version": "3.0.0",
-  "config": {
-    "posts_per_page": 3
-	},
-  "author": {
-  "name": "Kelyvin",
-  "url": "https://github.com/ayousif00",
-  "email": "mail@abdulous.com",
   "description": "Material Design Inspired theme for Ghost",
   "homepage": "https://github.com/kelyvin/caffeine-theme",
   "version": "3.0.0",
@@ -18,7 +7,6 @@
     "name": "Kelyvin",
     "email": "kelyvin@caffeinecoding.com",
     "url": "https://github.com/kelyvin"
-
   },
   "repository": {
     "type": "git",
@@ -30,7 +18,7 @@
     "postinstall": "bower install"
   },
   "bugs": {
-    "url": "https://github.com/ayousif00/caffeine-theme/issues"
+    "url": "https://github.com/ayousif00/caffeine-theme"
   },
   "keywords": [
     "elegant",
